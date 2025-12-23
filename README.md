@@ -299,7 +299,7 @@ Bu proje eğitim amaçlıdır ve açık kaynak kodludur.
 
 ## 👤 Yazar
 
-Dinamik Programlama Projesi
+Ahmet Yeşil
 
 ---
 
