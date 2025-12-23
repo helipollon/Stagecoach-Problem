@@ -15,7 +15,7 @@ Bellman Denklemi:
 
 Zaman Karmaşıklığı: O(V + E) - V: düğüm sayısı, E: kenar sayısı
 
-Yazar: Dinamik Programlama Projesi
+Yazar: Ahmet Yeşil
 ===============================================================================
 """
 
